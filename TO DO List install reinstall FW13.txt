@@ -1,0 +1,22 @@
+TO DO List install/ reinstall Framework 13
+
+Montage: 
+	https://guides.frame.work/Guide/Framework+Guide+de+démarrage+rapide+de+l'ordinateur+portable+13+(AMD+Ryzen™+série+7040)+DIY+Edition/211
+Installation modules: 	https://www.reddit.com/r/framework/comments/1cag1f3/what_does_hight_power_consumption_mean/
+W11 installation:
+	https://guides.frame.work/Guide/Installation+de+Windows+11+sur+l'ordinateur+portable+Framework+13+(AMD+Ryzen™+série+7040)/214
+W11 activation: 
+	https://massgrave.dev
+Bios version check: 
+	https://knowledgebase.frame.work/en_us/how-to-check-the-bios-version-on-windows-linux-bios-ryupu8HT3
+Bios update + driver download: 
+	https://knowledgebase.frame.work/fr/framework-laptop-bios-and-driver-releases-(amd-ryzentm-7040-series)-r1rXGVL16
+battery charge limit setup: 	https://guides.frame.work/Guide/Activation+de+la+fonctionnalité+d'économie+de+batterie+dans+le+BIOS/392
+adaptative refresh rate: 
+	https://www.amd.com/fr/products/software/adrenalin.html
+Desactiver "Réduire la luminosité de l'écran lors de l'utilisation de l'économiseur de batterie"
+Remap Fn and Ctrl keys on keyboard: 
+	https://community.frame.work/t/bios-guide/4178
+Remap F12 or other keys: 
+	https://learn.microsoft.com/en-us/windows/powertoys/install#installing-with-microsoft-store
+	https://learn.microsoft.com/en-us/windows/powertoys/keyboard-manager
