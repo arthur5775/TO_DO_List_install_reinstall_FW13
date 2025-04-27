@@ -76,20 +76,20 @@
 					"PackageIdentifier" : "Microsoft.Teams"
 				},
 				{
-                    "PackageIdentifier": "Microsoft.PowerToys"
-                },
-                {
-                    "PackageIdentifier": "Microsoft.PowerBI"
-                },
-                {
-                    "PackageIdentifier": "WhatsApp.WhatsApp"
-                },
-                {
-                    "PackageIdentifier": "Opera.Opera"
-                },
-                {
-                    "PackageIdentifier": "TheMathWorksInc.MATLABRuntime"
-                }
+                    			"PackageIdentifier": "Microsoft.PowerToys"
+                		},
+                		{
+                    			"PackageIdentifier": "Microsoft.PowerBI"
+                		},
+                		{
+                    			"PackageIdentifier": "WhatsApp.WhatsApp"
+                		},
+                		{
+                    			"PackageIdentifier": "Opera.Opera"
+                		},
+                		{
+                    			"PackageIdentifier": "TheMathWorksInc.MATLABRuntime"
+                		}
 			],
 			"SourceDetails" : 
 			{
