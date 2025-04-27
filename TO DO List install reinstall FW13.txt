@@ -20,3 +20,11 @@ Remap Fn and Ctrl keys on keyboard:
 Remap F12 or other keys: 
 	https://learn.microsoft.com/en-us/windows/powertoys/install#installing-with-microsoft-store
 	https://learn.microsoft.com/en-us/windows/powertoys/keyboard-manager
+
+Quick software installation: 
+	https://learn.microsoft.com/en-us/windows/package-manager/winget/
+	https://en.wikipedia.org/wiki/Windows_Package_Manager
+	https://winget.run
+	https://www.youtube.com/watch?v=UASz0VPQEx4
+	https://www.youtube.com/watch?v=uxr7m8wDeGA
+	https://www.youtube.com/watch?v=OHeHwCTDosU
