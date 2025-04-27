@@ -28,6 +28,7 @@ Remap F12 or other keys:
 Quick software installation: 
 	https://learn.microsoft.com/en-us/windows/package-manager/winget/
 	https://en.wikipedia.org/wiki/Windows_Package_Manager
+	https://winstall.app
 	https://winget.run
 	https://www.youtube.com/watch?v=UASz0VPQEx4
 Transfer bookmarks from another web browser or computer: 
