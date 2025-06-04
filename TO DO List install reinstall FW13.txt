@@ -31,10 +31,15 @@ Quick software installation:
 	https://winstall.app
 	https://winget.run
 	https://www.youtube.com/watch?v=UASz0VPQEx4
-	(use the JSON file: https://github.com/arthur5775/TO_DO_List_install_reinstall_FW13/blob/main/files_to_use/apps.json
+	(use the JSON file: https://github.com/arthur5775/TO_DO_List_install_reinstall_FW13/blob/main/files_to_use/apps.json)
 Transfer bookmarks from another web browser or computer: 
 	https://www.wikihow.com/Transfer-Bookmarks-from-One-Computer-to-Another
 	(use the HTML file: https://github.com/arthur5775/TO_DO_List_install_reinstall_FW13/blob/main/files_to_use/bookmarks.html)
+Ajout accès bureau à distance via Chrome:
+	https://support.google.com/pixelslate/answer/9136961?hl=fr-CA&co=GENIE.Platform%3DDesktop
+	https://chromewebstore.google.com/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai?hl=fr
+	https://remotedesktop.google.com
+	
 
 
 
